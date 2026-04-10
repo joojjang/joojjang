@@ -24,10 +24,8 @@
 
 ## Projects  
 
-| Title | Link |
-| :--- | :--- |
-| iM Bank 기업 대출 분석 | [📊](https://github.com/joojjang/) |
-| 머신러닝 스태킹 모델링 | [📊](https://github.com/joojjang/) |
+[iM Bank 기업 대출 분석](https://github.com/joojjang/)  
+[머신러닝 스태킹 모델링](https://github.com/joojjang/)  
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
