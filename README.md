@@ -3,8 +3,16 @@
 경북대학교 영어교육과/컴퓨터학부  
 
 ## Awards  
-[2021 경북대학교 컴퓨터학부 해커톤 최우수상](https://github.com/joojjang/)
-[2024 GDSC 솔챌톤](https://github.com/joojjang/)
+[2021 경북대학교 컴퓨터학부 해커톤 최우수상](https://github.com/joojjang/)  
+[2024 GDSC 솔챌톤](https://github.com/joojjang/)  
+
+## Skills  
+
+### Front-end  
+
+
+### Data Analysing  
+
 
 ## Projects  
 
