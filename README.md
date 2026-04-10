@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyCaret-630075?style=for-the-badge&logo=python&logoColor=white />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white />
+    <img src="https://img.shields.io/badge/PyCaret-630075?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
 </div>
 
 ## Projects  
@@ -27,7 +27,7 @@
 | Title | Link |
 | :--- | :--- |
 | iM Bank 기업 대출 분석 | [📊](https://github.com/joojjang/) |
-| 머신러닝 스태킹 모델링 | [📊](https://github.com/joojjang/)) |
+| 머신러닝 스태킹 모델링 | [📊](https://github.com/joojjang/) |
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
