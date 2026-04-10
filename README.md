@@ -10,13 +10,17 @@
 
 ### Front-end  
 <div>
-    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badgestyle=flat-squaret&logo=visualstudiocode&logoColor=white">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badgestyle=flat-squaret&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    ![TypeScript]<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </div>
 
 ### Data Analysing  
-
+<div>
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+    ![PyCaret](https://img.shields.io/badge/PyCaret-630075?style=for-the-badge&logo=python&logoColor=white)
+    ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+</div>
 
 ## Projects  
 
