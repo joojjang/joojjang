@@ -9,7 +9,11 @@
 ## Skills  
 
 ### Front-end  
-
+<div>
+    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badgestyle=flat-squaret&logo=visualstudiocode&logoColor=white">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badgestyle=flat-squaret&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=Blogger&logoColor=white"/>
+</div>
 
 ### Data Analysing  
 
